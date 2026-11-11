@@ -29,7 +29,7 @@ export default function Navbar() {
     { name: 'JOURNEY', href: '#journey', icon: Compass },
     { name: 'COA LAB ⭐', href: '#coa-tool', icon: Binary, highlight: true },
     { name: 'COA LEARNING', href: '#learning', icon: BookOpen },
-    { name: 'CASE STUDIES', href: '#case-studies', icon: BookMarked },
+    { name: 'ACADEMIC WORK', href: '#academic-work', icon: BookMarked },
     { name: 'ACHIEVEMENTS', href: '#achievements', icon: Award },
     { name: 'GALLERY', href: '#gallery', icon: ImageIcon },
     { name: 'RESUME', href: '#resume', icon: FileText },
@@ -40,7 +40,7 @@ export default function Navbar() {
     const handleScroll = () => {
       setScrolled(window.scrollY > 20);
 
-      const sections = ['home', 'about', 'journey', 'coa-tool', 'learning', 'case-studies', 'achievements', 'gallery', 'resume', 'contact'];
+      const sections = ['home', 'about', 'journey', 'coa-tool', 'learning', 'academic-work', 'case-studies', 'achievements', 'gallery', 'resume', 'contact'];
       const scrollPosition = window.scrollY + 200;
 
       for (const section of sections) {

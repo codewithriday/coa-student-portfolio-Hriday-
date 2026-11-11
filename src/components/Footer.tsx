@@ -14,7 +14,7 @@ export default function Footer() {
     { name: 'About Me', href: '#about' },
     { name: 'COA Converter', href: '#coa-tool' },
     { name: 'COA Learning Hub', href: '#learning' },
-    { name: 'Case Studies', href: '#case-studies' },
+    { name: 'Academic Work', href: '#academic-work' },
     { name: 'Gallery', href: '#gallery' },
     { name: 'Achievements', href: '#achievements' },
     { name: 'Resume', href: '#resume' },

@@ -7,7 +7,7 @@ import About from '../components/About';
 import Journey from '../components/Journey';
 import NumberConverter from '../components/NumberConverter';
 import COALearningHub from '../components/COALearningHub';
-import CaseStudies from '../components/CaseStudies';
+import AcademicWork from '../components/AcademicWork';
 import Achievements from '../components/Achievements';
 import Gallery from '../components/Gallery';
 import Resume from '../components/Resume';
@@ -37,8 +37,8 @@ export default function HomePage() {
         {/* 5. COA LEARNING: CPU, ALU, Memory, Registers, Cache, Logic Gates, Instruction Cycle */}
         <COALearningHub />
 
-        {/* 6. CASE STUDIES: Academic COA Cache Memory Performance Analysis */}
-        <CaseStudies />
+        {/* 6. ACADEMIC WORK: Assignment 1 & Case Study 3 */}
+        <AcademicWork />
 
         {/* 7. ACHIEVEMENTS: Timeline, Certifications */}
         <Achievements />

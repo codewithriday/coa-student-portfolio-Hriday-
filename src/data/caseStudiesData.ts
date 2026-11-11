@@ -63,8 +63,8 @@ export const coaCaseStudy: CaseStudyItem = {
   university: 'Chandigarh University',
   campus: 'Gharuan, Mohali, Punjab',
   facultyGuide: 'Mrs. Ruchika Gupta Mam',
-  pdfUrl: '/case-studies/Hriday_Katariaa_COA_Case_Study_3_Final.pdf',
-  pdfFileName: 'Hriday_Katariaa_COA_Case_Study_3_Final.pdf',
+  pdfUrl: '/academic-work/COA-Cache-Memory-Case-Study.pdf',
+  pdfFileName: 'COA-Cache-Memory-Case-Study.pdf',
   parameters: {
     totalAccesses: 1000,
     cacheHits: 850,
