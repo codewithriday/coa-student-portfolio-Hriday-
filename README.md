@@ -121,7 +121,7 @@ If you do not have Node.js installed on your machine yet, simply double-click th
 ## ✏️ How to Personalize the Website (in 60 Seconds)
 
 All student information is centralized in a single file:
-👉 **[`src/data/studentConfig.ts`](file:///C:/Users/Hriday%20Kataria/.gemini/antigravity-ide/scratch/coa-student-portfolio/src/data/studentConfig.ts)**
+👉 **[`src/data/studentConfig.ts`](src/data/studentConfig.ts)**
 
 Open this file and replace the placeholder fields:
 
